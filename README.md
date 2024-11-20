@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="icon.jpg" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Image Viewr</h3>
@@ -35,7 +35,7 @@ PyGame
 
 <img width=200px height=200px src="screenshot1.png">
 You can view your images from a specific folder on your computer
-
+<br>
 <br>
 <img width=200px height=200px src="screenshot2.png">
 You can remove an image from favourites by clicking on it
